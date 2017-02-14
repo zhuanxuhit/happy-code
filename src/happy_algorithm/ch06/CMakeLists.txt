@@ -1,0 +1,1 @@
+add_executable(monster state.cpp main.cpp)
