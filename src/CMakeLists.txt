@@ -1,2 +1,5 @@
 add_subdirectory(basic)
 add_subdirectory(happy_algorithm)
+add_subdirectory(interview)
+add_subdirectory(leetcode)
+#add_subdirectory(stl)
