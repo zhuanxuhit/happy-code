@@ -164,7 +164,7 @@ public:
                 break;
             }
         }
-        if (op == ""){
+        if (op == " "){
             return std::stoi( left );
         }
 //        if (op == "*" || op == "/"){
