@@ -1,3 +1,5 @@
 add_executable(solutions solutions.cpp)
 add_executable(l434 l434.cpp)
 add_executable(l91 l91.cpp)
+add_executable(l503 l503.cpp)
+add_executable(l451 l451.cpp)
