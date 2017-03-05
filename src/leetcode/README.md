@@ -11,4 +11,8 @@
 
 2017.03.02 [150.Evaluate Reverse Polish Notation]()
 
-2017.03.03 [373.Find K Pairs with Smallest Sums]()
+2017.03.03 [373.Find K Pairs with Smallest Sums](http://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484396&idx=1&sn=7695c3ab485d4c7f4d6550abb6a6bf1d&chksm=9ae05664ad97df728981365be049a404adb29d20d06ff9c2184a6281a83bfc27434396d8db9d&scene=4#wechat_redirect)
+
+2017.03.05 [402. Remove K Digits](https://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484417&idx=1&sn=5d600014052d6891029377cca3405dad&chksm=9ae05189ad97d89faa4a79bc499a9bfb728f504b5b26c70eb0d3121d55c21a3e818fd5cb690b&scene=0&key=5578552f11f7803551c48930ba757c4d80cd95d686617c59a4326d9e5bad66b10a358e7e36c13f2057a6128ff85d329801a7ef7cb3f7ed03aeed0378dcfacc7d3800690704abb833c4a211f1c86872f3&ascene=0&uin=Mjc1MjU2MjcwMA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.6+build(15G1004)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=Wf39deTrQE%2B58toXSKQbLBUNOPahAzxAE8Y6ZyiUd8BMu31nBHHdr2HX3yzA%2BAIn)
+
+2017.03.05 [224. Basic Calculator]() 重点是stack保存状态
