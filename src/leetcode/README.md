@@ -15,4 +15,14 @@
 
 2017.03.05 [402. Remove K Digits](https://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484417&idx=1&sn=5d600014052d6891029377cca3405dad&chksm=9ae05189ad97d89faa4a79bc499a9bfb728f504b5b26c70eb0d3121d55c21a3e818fd5cb690b&scene=0&key=5578552f11f7803551c48930ba757c4d80cd95d686617c59a4326d9e5bad66b10a358e7e36c13f2057a6128ff85d329801a7ef7cb3f7ed03aeed0378dcfacc7d3800690704abb833c4a211f1c86872f3&ascene=0&uin=Mjc1MjU2MjcwMA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.6+build(15G1004)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=Wf39deTrQE%2B58toXSKQbLBUNOPahAzxAE8Y6ZyiUd8BMu31nBHHdr2HX3yzA%2BAIn)
 
-2017.03.05 [224. Basic Calculator]() 重点是stack保存状态
+2017.03.05 [224. Basic Calculator](http://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484436&idx=1&sn=61ce4f4a00e360dbace7968b5ef57048&chksm=9ae0519cad97d88ae98e73d81ce5204bec37d21c885a4e75ab6fdc62423b15f1a0d74205ada4&scene=4#wechat_redirect) 重点是stack保存状态
+
+2017.03.06 [202. Happy Number](https://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484469&idx=1&sn=00591d0941b709ad4aa48e351f69ac34&chksm=9ae051bdad97d8ab279a862b8a801c936b61e11d17c7164cb39abcf3978d125d52a3969fc6bb&mpshare=1&scene=1&srcid=0306eSTjcc8MYwB7jFCoTsfH&key=35474a3d8332a50929bd33c043081b9abe3d2b72f0204a345cfc28607e0cfbfc9339c15f9a18bacb6612aea647771f06757c82a4342dafdeaa8635a2c6797c6244a75f630b259be3cf91223ac797fe85&ascene=0&uin=Mjc1MjU2MjcwMA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.6+build(15G1004)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=L3U5lih50IxxNhimznIzJ1CasY9FcLCCdEka2mDaIssMUWa%2FRJip0y2yYeckqpSM)
+
+2017.03.07 [263. Ugly Number]()
+
+2017.03.08 [264. Ugly Number II](https://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484496&idx=1&sn=9da033c35980f6c6c0718761482a8f08&chksm=9ae051d8ad97d8ced6a6fb40d54720cc55d5e24d7d06e248d410962abddba58b8375b813b7ec&mpshare=1&scene=1&srcid=0310STao5FCLIMPcCCHyoHvT&key=ae8640fe4340b04e329edd4a4d3b7fcb029b0c2a0a3f71bffb78d3e48ec561f97f5eef9f3bc6ec220ab75210c63261bcb80551b72f94a176a723ac25cc91bfd8756cf13f0b4495635633fcfd80f4fb40&ascene=0&uin=Mjc1MjU2MjcwMA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.6+build(15G1004)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=jFhUA%2FDW7BiigrLaHWTNxtSXM96Xdx6%2Ff4PlRt5gPaUaXjtB5v4Z3eRZLdb1JpnI)
+
+2017.03.09 [313. Super Ugly Number]()
+
+2017.03.10 [166. Fraction to Recurring Decimal]()
