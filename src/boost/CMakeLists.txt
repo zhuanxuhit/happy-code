@@ -1,1 +1,2 @@
 add_executable(forward_list forward_list.cpp)
+add_executable(bind_function bind_function.cpp)
