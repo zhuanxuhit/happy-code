@@ -1,2 +1,4 @@
 add_executable(forward_list forward_list.cpp)
 add_executable(bind_function bind_function.cpp)
+add_executable(less_than_comparable less_than_comparable.cpp)
+add_executable(bsa static_assert.cc)
