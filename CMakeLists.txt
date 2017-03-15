@@ -5,6 +5,11 @@ project(happy_code)
 
 set(CMAKE_CXX_STANDARD 11)
 
+set(CXX_FLAGS
+        -g
+        -rdynamic
+        )
+
 #set(SOURCE_FILES main.cpp sds.cpp)
 # 指定生成目标
 #add_executable(happy_code ${SOURCE_FILES})
