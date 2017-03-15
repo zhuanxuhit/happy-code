@@ -25,4 +25,6 @@
 
 2017.03.09 [313. Super Ugly Number]()
 
-2017.03.10 [166. Fraction to Recurring Decimal]()
+2017.03.10 [166. Fraction to Recurring Decimal](http://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484533&idx=1&sn=520f564800a76533e03fe71296f80766&chksm=9ae051fdad97d8eb0df49429cb2072b8fbf1c120ec2d56c4b1edcdf828dbcbcb15f9c479ea43&scene=21#wechat_redirect)
+
+2017.03.15 [483. Smallest Good Base](https://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484563&idx=1&sn=bc6b42d2b521e8320089799efd0bbd58&chksm=9ae0511bad97d80d89935632b09cf1240770c2661100eaba41b71e517d30ab4a2e0cdc173d95&scene=0&key=ba1020d849de95c44b8fb66a59ef06de1dae12eb5a0430c1aaa36ad70e3984fb0602a640522f1e39b1570663a4411a02123aafc48534c6613a1d02d7f47d621330772d0f1ca01bf9ef3c9d508358a2a9&ascene=0&uin=Mjc1MjU2MjcwMA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.6+build(15G1004)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=eEEhdXEB677ozGW99kQ5q61m2Z2bqv5EGY4YJ3jvBrGSdZYcKQa4MJIfo02f7ozD)
