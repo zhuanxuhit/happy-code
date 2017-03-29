@@ -38,3 +38,22 @@
 2017.03.23 dp [174. Dungeon Game](https://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484631&idx=1&sn=01b04e68eadede4049a509d2d8895a50&chksm=9ae0515fad97d8492db97f0b5e47b2bdca5e26407cbdc157454817e2c1467c4e20dfa3e1686c&mpshare=1&scene=1&srcid=0323zaMc0UvUf3dGl4N0RBeQ&key=1d95f5a097bd6c467dffb3c8b26e6579b77a7062c6cb14788f6696baaf036bfcd5a065e750f1891068d11107274beec35ad3c94d013772e758e6f17e6679916ff5e45387f43b484028793290c257c441&ascene=0&uin=Mjc1MjU2MjcwMA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.6+build(15G1004)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=Uw64KV%2F2drOgGJU%2BDNh6aCfLQCsl3SRHdSuIqOCGWfGhpuAoPlifq3W5uqIKc1Wj)
 
 2017.03.23 [131. Palindrome Partitioning]()
+
+2017.03.24 [78. Subsets]()
+
+2017.03.24 [89. Gray Code]()
+
+2017.03.24 [79. Word Search]()
+
+2017.03.29 [47. Permutations II]()
+
+2017.03.29 [140. Word Break II](http://chuansong.me/n/1713762752324)
+
+# 总结
+
+[分治算法 (Divid and Conquer) 总结](http://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484032&idx=2&sn=804ba04be9bd94df3752115d394731e3&chksm=9ae05708ad97de1eb839f7bd416b6e3627e6f2354c835e8c95b1e39e8505c9cd7bc2cc12e0c4&scene=21#wechat_redirect)
+
+[回朔总结](http://chuansong.me/n/1697317552217)
+![](./images/backtracing.jpeg)
+
+
