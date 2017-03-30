@@ -49,11 +49,25 @@
 
 2017.03.29 [140. Word Break II](http://chuansong.me/n/1713762752324)
 
+2017.03.29 [122. Best Time to Buy and Sell Stock II](https://sophiesongge.github.io/leetcode/2017/02/15/buy-sell-stock.html)
+
+2017.03.29 [http://chuansong.me/n/1719838852953](http://chuansong.me/n/1719838852953)
+
 # 总结
 
 [分治算法 (Divid and Conquer) 总结](http://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484032&idx=2&sn=804ba04be9bd94df3752115d394731e3&chksm=9ae05708ad97de1eb839f7bd416b6e3627e6f2354c835e8c95b1e39e8505c9cd7bc2cc12e0c4&scene=21#wechat_redirect)
 
 [回朔总结](http://chuansong.me/n/1697317552217)
 ![](./images/backtracing.jpeg)
+
+
+## 语录
+**算法的本质在于降低需要处理的问题的规模。**
+比如动态规划的关键是求 n 与 1 到 n - 1 的关系；
+递归是需要我们找出 n 与 n - 1 的关系；
+二分法是一次将搜索空间折半；
+分治算法要求我们将复杂的分词分解成独立的子问题
+
+
 
 
