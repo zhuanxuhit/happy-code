@@ -51,7 +51,16 @@
 
 2017.03.29 [122. Best Time to Buy and Sell Stock II](https://sophiesongge.github.io/leetcode/2017/02/15/buy-sell-stock.html)
 
-2017.03.29 [http://chuansong.me/n/1719838852953](http://chuansong.me/n/1719838852953)
+2017.03.29 [452. Minimum Number of Arrows to Burst Balloons](http://chuansong.me/n/1719838852953)
+
+2017.03.31 [406. Queue Reconstruction by Height]()
+
+2017.04.01 [134. Gas Station]
+
+2017.04.01 [435. Non-overlapping Intervals]
+
+2017.04.05 [！hard dp超时 321. Create Maximum Number](http://www.cnblogs.com/grandyang/p/5136749.html)
+
 
 # 总结
 
