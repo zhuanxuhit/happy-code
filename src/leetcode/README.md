@@ -67,6 +67,26 @@
 
 2017.04.05 [179. Largest Number]
 
+2017.04.06 [324. Wiggle Sort II]
+
+2017.04.07 [524. Longest Word in Dictionary through Deleting]
+
+2017.04.09 [164. Maximum Gap]
+
+2017.04.10 [107. Binary Tree Level Order Traversal II]
+
+2017.04.11 [542. 01 Matrix]
+
+2017.04.12 [101. Symmetric Tree]
+
+2017.04.13 [513. Find Bottom Left Tree Value]
+
+2017.04.20 [515. Find Largest Value in Each Tree Row]
+
+2017.04.20 [301. Remove Invalid Parentheses]
+
+2017.04.21 [332. Reconstruct Itinerary]
+
 # 总结
 
 [分治算法 (Divid and Conquer) 总结](http://mp.weixin.qq.com/s?__biz=MzAwMDk1MTUyNw==&mid=2247484032&idx=2&sn=804ba04be9bd94df3752115d394731e3&chksm=9ae05708ad97de1eb839f7bd416b6e3627e6f2354c835e8c95b1e39e8505c9cd7bc2cc12e0c4&scene=21#wechat_redirect)
