@@ -1,0 +1,5 @@
+add_executable(list_sum list_sum.cpp snode.h)
+add_executable(list_replicate list_replicate.cpp snode.h)
+add_executable(list_remove_all_dup list_remove_all_dup.cpp snode.h)
+add_executable(list_sort list_sort.cpp snode.h)
+add_executable(list_same_node list_same_node.cpp snode.h)

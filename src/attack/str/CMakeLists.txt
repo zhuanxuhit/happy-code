@@ -1,0 +1,7 @@
+include_directories(../../common_lib)
+add_executable(lcs lcs.cpp)
+add_executable(lis lis.cpp)
+add_executable(perm perm.cpp)
+add_executable(manacher manacher.cpp)
+add_executable(kmp1 kmp.cpp)
+add_executable(bm bm.cpp)
