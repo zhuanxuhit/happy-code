@@ -1,0 +1,1 @@
+add_executable(my_array array.cpp)

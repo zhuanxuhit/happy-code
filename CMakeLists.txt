@@ -9,12 +9,11 @@ set(CXX_FLAGS
         -g
         -rdynamic
         )
-
 #set(SOURCE_FILES main.cpp sds.cpp)
 # 指定生成目标
 #add_executable(happy_code ${SOURCE_FILES})
+#add_subdirectory(src)
 add_subdirectory(src)
-
 
 # 查找当前目录下的所有源文件
 # 并将名称保存到 DIR_SRCS 变量
