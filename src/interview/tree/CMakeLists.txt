@@ -1,0 +1,1 @@
+add_executable(tree_l124 l124.cpp)
