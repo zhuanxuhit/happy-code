@@ -1,1 +1,1 @@
-add_executable(hello hello.c)
+add_executable(sectionMapping.elf sectionMapping.cpp)

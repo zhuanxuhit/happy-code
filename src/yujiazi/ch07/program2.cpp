@@ -4,6 +4,6 @@
 
 #include "lib.h"
 int main(){
-    foobar(1);
+    foobar(2);
     return 0;
 }

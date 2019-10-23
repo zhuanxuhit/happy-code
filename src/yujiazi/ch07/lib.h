@@ -6,9 +6,7 @@
 #define HAPPY_CODE_LIBC_H
 
 
-class libc {
-
-};
+void foobar(int i);
 
 
 #endif //HAPPY_CODE_LIBC_H
