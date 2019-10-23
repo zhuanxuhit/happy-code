@@ -1,0 +1,1 @@
+add_executable(sectionMapping.elf sectionMapping.cpp)
