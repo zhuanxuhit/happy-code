@@ -1,0 +1,1 @@
+add_executable(smart_ptr smart_ptr.cpp smart_ptr.h shared_count.cpp shared_count.h)
