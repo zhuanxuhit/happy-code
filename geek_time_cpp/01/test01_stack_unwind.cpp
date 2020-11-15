@@ -1,0 +1,26 @@
+//
+// Created by zhuanxu on 2020/11/14.
+//
+#include <stdio.h>
+
+class Obj {
+public:
+    Obj() { puts("Obj()"); }
+    ~Obj() { puts("~Obj()"); }
+};
+void foo(int n) {
+    Obj obj;
+    if (n==42) {
+        throw "life, the universe and everything";
+    }
+}
+int main()
+{
+    try {
+        foo(41);
+        foo(42);
+    }
+    catch (const char* s) {
+        puts(s);
+    }
+}
