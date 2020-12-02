@@ -1,17 +1,28 @@
 FROM ubuntu:18.04
 
-RUN apt-get update
 
-RUN apt-get install -y build-essential
-RUN apt-get install -y cmake
-RUN apt-get install -y gdb
+# 替换为阿里云镜像，如不需要可以去掉本部分
+RUN printf '\n\
+deb http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse \n\
+deb http://mirrors.aliyun.com/ubuntu/ bionic-security main restricted universe multiverse \n\
+deb http://mirrors.aliyun.com/ubuntu/ bionic-updates main restricted universe multiverse \n\
+deb http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse \n\
+deb http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse \n\
+deb-src http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse \n\
+deb-src http://mirrors.aliyun.com/ubuntu/ bionic-security main restricted universe multiverse \n\
+deb-src http://mirrors.aliyun.com/ubuntu/ bionic-updates main restricted universe multiverse \n\
+deb-src http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse \n\
+deb-src http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse' > /etc/apt/sources.list
 
-RUN apt-get install -y openssh-server
+
+RUN apt-get update \
+    && apt-get install -y build-essential cmake gdb \
+    openssh-server rsync
+
 RUN mkdir /var/run/sshd
 RUN sed -ri 's/^#PermitRootLogin\s+.*/PermitRootLogin yes/' /etc/ssh/sshd_config
 RUN sed -ri 's/UsePAM yes/#UsePAM yes/g' /etc/ssh/sshd_config
 
-RUN apt-get install -y rsync
 RUN sed -ri 's/RSYNC_ENABLE=false/RSYNC_ENABLE=true/g' /etc/default/rsync
 COPY rsync.conf /etc
 
